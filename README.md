@@ -6,9 +6,9 @@
             #para1 { 
                   text-align: center;
                   color:red;
-            } 
-          </style>
-      </head>
+        } 
+      </style>
+    </head>
 <body>
             
   <p id="para1">Hello World!</p>
